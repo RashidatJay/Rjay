@@ -1,0 +1,5 @@
+Name=Jimoh Rashidat Unique
+Email Adress=rashidatjay@gmail.com
+Slack username=Rjay
+Track-Back End,Coding
+Courses registered:Python
